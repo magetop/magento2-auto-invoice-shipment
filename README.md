@@ -1,0 +1,2 @@
+# magento2-auto-invoice-shipment
+Auto Invoice &amp; Shipment Magento Extension allows to automatically send invoice and shipment emails. The plugin can be configured to auto create invoices and shipments based on a number of Magento rules and automatically capture payments. There is no need to create Magento invoices programmatically or process each order manually by website admin. The purchase process time frames will be considerably shortened, resulting in higher customer satisfaction and increased sales.
