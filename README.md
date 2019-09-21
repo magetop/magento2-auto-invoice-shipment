@@ -4,21 +4,20 @@
 
 ## Highlight features
 
-- Automatically generate Magento invoices and shipments using flexible rules and conditions.
-- Admin can create unlimited number of Auto Invoice and Auto Shipment rules, based on website, customer groups, billing or shipping address, order grand total, product SKU, payment methods, etc.
-- The invoice can be created after the order was placed or after the shipment was generated.
-- Likewise, the shipment can be created after the order was placed or after the invoice was generated.
-- Admin can choose to capture the order amount using three methods: capture online, offline or do not capture.
-- Admin can append optional comments to each auto created Invoice or Shipment and display them on Magento 2 Order Page or in the emails.
-- Automatically sends Magento 2 invoice email or shipment email.
-- Compatible with third party PDF invoice extensions.
+- Automatically create invoices and shipments process.
+- Confirmation email of invoices and shipment send to the customer automatically.
+- Generates invoice and shipment process to customers automatically after their order placed.
+- Auto Invoice and Shipment Magento 2 extension specially use for offline payment methods.
+- Helps to make order process quick and automatically.
+- Easy to install and configure with your store.
+- Enable/Disable extension from the backend.
 - 100% Open-source, Support multi-store, Support multi-language.
 - Easy to install and customize.
 - And many more feature ...
 
 ## More features & Demo
 
-- Extension details : https://www.magetop.com/magento-2-auto-invoice-shipment-extension.html
+- Extension details : https://www.magetop.com/magento-2-auto-invoice-and-shipment-extension.html
 - Frontend demo : https://magento2.demo.magetop.com/demo-full
 - Backend demo : https://magento2.demo.magetop.com/demo-full/admin
 
