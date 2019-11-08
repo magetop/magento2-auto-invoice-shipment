@@ -1,6 +1,6 @@
 # Magento 2 Auto Invoice & Shipment by MageTop
 
-**Magento 2 Stripe Payment Gateway Extension** by MageTop allows to automatically send invoice and shipment emails. The plugin can be configured to auto create invoices and shipments based on a number of Magento rules and automatically capture payments. There is no need to create Magento invoices programmatically or process each order manually by website admin. The purchase process time frames will be considerably shortened, resulting in higher customer satisfaction and increased sales.
+**Magento 2 Auto Invoice & Shipment Extension** by MageTop allows to automatically send invoice and shipment emails. The plugin can be configured to auto create invoices and shipments based on a number of Magento rules and automatically capture payments. There is no need to create Magento invoices programmatically or process each order manually by website admin. The purchase process time frames will be considerably shortened, resulting in higher customer satisfaction and increased sales.
 
 ## Highlight features
 
