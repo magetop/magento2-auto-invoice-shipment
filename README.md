@@ -1,6 +1,6 @@
-# Magento 2 Auto Invoice & Shipment by MageTop
+# Magento 2 Auto Invoice & Shipment by Magetop
 
-**Magento 2 Auto Invoice & Shipment Extension** by MageTop allows to automatically send invoice and shipment emails. The plugin can be configured to auto create invoices and shipments based on a number of Magento rules and automatically capture payments. There is no need to create Magento invoices programmatically or process each order manually by website admin. The purchase process time frames will be considerably shortened, resulting in higher customer satisfaction and increased sales.
+**Magento 2 Auto Invoice & Shipment Extension** by Magetop allows to automatically send invoice and shipment emails. The plugin can be configured to auto create invoices and shipments based on a number of Magento rules and automatically capture payments. There is no need to create Magento invoices programmatically or process each order manually by website admin. The purchase process time frames will be considerably shortened, resulting in higher customer satisfaction and increased sales.
 
 ## Highlight features
 
@@ -15,13 +15,13 @@
 - Easy to install and customize.
 - And many more feature ...
 
-## More features & Demo
+## More features & demo
 
 - Extension details : https://www.magetop.com/magento-2-auto-invoice-and-shipment-extension.html
 - Frontend demo : https://magento2.demo.magetop.com/demo-full
 - Backend demo : https://magento2.demo.magetop.com/demo-full/admin
 
-## Support & Contact info
+## Support & contact info
 
 - Need help setting up or want to customize this extension to meet your business needs? 
 - Get instant support with our Live Chat
